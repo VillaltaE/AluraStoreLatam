@@ -13,7 +13,7 @@ Se deben ejecutar las siguientes intrecciones:
 Se debe dar click en cada una de las celdas del documento GooGlecolab
 
 ## Informacion analizada durante el proyecto
-Ingresos totales por tiendas
+.Ingresos totales por tiendas
 Categorías de productos más y menos vendidos
 Ingresos por categoria de cada tienda
 Calificaciones promedio de clientes por tienda
