@@ -5,7 +5,6 @@ realizó en Python usando Googlecolab, es parte del entrenamiento de Alura Latam
 Formacion en modelado de datos con Python
 
 ## Instrucciones de uso
-Se deben ejecutar las siguientes intrecciones:
 1. import pandas as pd
 2. import matplotlib.pyplot as plt
 3. !pip install seaborn
