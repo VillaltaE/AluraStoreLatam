@@ -9,7 +9,8 @@ Formacion en modelado de datos con Python
 2. import matplotlib.pyplot as plt
 3. !pip install seaborn
 4. import seaborn as sns
-5. Se debe dar click en cada una de las celdas del documento GooGlecolab
+5. Se debe dar click en cada una de las celdas del documento Googlecolab
+6. El documento se llama: EdgarVillalta_AluraStoreLatam.ipynb
 
 ## Informacion analizada durante el proyecto
 * Ingresos totales por tiendas
