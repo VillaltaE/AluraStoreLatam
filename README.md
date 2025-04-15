@@ -13,17 +13,17 @@ Se deben ejecutar las siguientes intrecciones:
 Se debe dar click en cada una de las celdas del documento GooGlecolab
 
 ## Informacion analizada durante el proyecto
-.Ingresos totales por tiendas
-.Categorías de productos más y menos vendidos
-.Ingresos por categoria de cada tienda
-.Calificaciones promedio de clientes por tienda
-.Productos más y menos vendidos por tienda
-.El coste de envio promedio por cada tienda
-.Análisis del desempeño geográfico (mapa de calor)
-.Análisis de venta de temporada (mes y año con mas venta)
-.Análisis de vendedores
-.Ventas por ciudades
-.Fortalezas y debilidades
+*Ingresos totales por tiendas
+*Categorías de productos más y menos vendidos
+*Ingresos por categoria de cada tienda
+*Calificaciones promedio de clientes por tienda
+*Productos más y menos vendidos por tienda
+*El coste de envio promedio por cada tienda
+*Análisis del desempeño geográfico (mapa de calor)
+*Análisis de venta de temporada (mes y año con mas venta)
+*Análisis de vendedores
+*Ventas por ciudades
+*Fortalezas y debilidades
 
 ## Recomendación
 
